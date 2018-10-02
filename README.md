@@ -79,7 +79,7 @@ An example of what a region file looks like for **snpExtractorSEG5.py**. :
 ```
 Region1,1,6,25,35
 Region2,510,1149
-Region3,511,2238, 2290
+Region3,511,2238,2290
 ```
 
 
